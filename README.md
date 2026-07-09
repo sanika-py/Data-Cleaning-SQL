@@ -14,7 +14,7 @@ Improve overall data quality
 Prepare data for further analysis and visualization
 Tools Used
 SQL
-MySQL (or SQL Server/PostgreSQL—whichever you're using)
+MySQL 
 GitHub
 Dataset
 
