@@ -53,8 +53,4 @@ Learning Outcomes
 
 Through this project, I learned how to clean raw datasets using SQL, improve data consistency, and prepare structured data for business analysis and reporting.
 
-Future Improvements
-Automate the cleaning process
-Create SQL stored procedures
-Build dashboards using cleaned data
-Perform exploratory data analysis
+Future Improvements - Automate the cleaning process, Create SQL stored procedures, Build dashboards using cleaned data, Perform exploratory data analysis
